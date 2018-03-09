@@ -3,24 +3,24 @@
 [![Build Status](https://travis-ci.org/official-stockfish/Stockfish.svg?branch=master)](https://travis-ci.org/official-stockfish/Stockfish)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/official-stockfish/Stockfish?svg=true)](https://ci.appveyor.com/project/mcostalba/stockfish)
 
-Stockfish is a free UCI chess engine derived from Glaurung 2.1. It is
+Kanini chess is a free UCI chess engine derived from Glaurung 2.1. It is
 not a complete chess program and requires some UCI-compatible GUI
 (e.g. XBoard with PolyGlot, eboard, Arena, Sigma Chess, Shredder, Chess
 Partner or Fritz) in order to be used comfortably. Read the
 documentation for your GUI of choice for information about how to use
-Stockfish with it.
+Kanini chess with it.
 
-This version of Stockfish supports up to 512 cores. The engine defaults
+This version of Kanini supports up to 512 cores. The engine defaults
 to one search thread, so it is therefore recommended to inspect the value of
 the *Threads* UCI parameter, and to make sure it equals the number of CPU
 cores on your computer.
 
-This version of Stockfish has support for Syzygybases.
+This version of Kanini has support for Syzygybases.
 
 
 ### Files
 
-This distribution of Stockfish consists of the following files:
+This distribution of Kanini consists of the following files:
 
   * Readme.md, the file you are currently reading.
 
@@ -84,10 +84,10 @@ the 50-move rule.
 
 ### Compiling it yourself
 
-On Unix-like systems, it should be possible to compile Stockfish
+On Unix-like systems, it should be possible to compile Kanini chess
 directly from the source code with the included Makefile.
 
-Stockfish has support for 32 or 64-bit CPUs, the hardware POPCNT
+Kanini has support for 32 or 64-bit CPUs, the hardware POPCNT
 instruction, big-endian machines such as Power PC, and other platforms.
 
 In general it is recommended to run `make help` to see a list of make
@@ -107,7 +107,7 @@ also recommended by the [support team at stockfish.](http://support.stockfishche
 
 ### Terms of use
 
-Stockfish is free, and distributed under the **GNU General Public License**
+Kanini chess is free, and distributed under the **GNU General Public License**
 (GPL). Essentially, this means that you are free to do almost exactly
 what you want with the program, including distributing it among your
 friends, making it available for download from your web site, selling
