@@ -101,7 +101,7 @@ for a quick reference.
 (techniques used here are well explained like hash maps etc), it was 
 also recommended by the [support team at stockfish.](http://support.stockfishchess.org/discussions/questions/1132-how-to-understand-stockfish-sources)
 
-* [Here](https://kaninichess.wikispaces.com/Kanini+chess) you can find a set of features and techniques used by stockfish and each of them is explained at the wiki, however, it's a generic way rather than focusing on stockfish's own implementation, but it will still help you. 
+* [Here](https://kaninichess.wikispaces.com/Kanini+chess) you can find a set of features and techniques used by Kanini and each of them is explained at the wiki, however, it's a generic way rather than focusing on Kanini's own implementation, but it will still help you. 
 
 
 ### Terms of use
