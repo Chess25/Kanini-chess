@@ -1,7 +1,6 @@
 ### Overview
 
-[![Build Status](https://travis-ci.org/official-stockfish/Stockfish.svg?branch=master)](https://travis-ci.org/official-stockfish/Stockfish)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/official-stockfish/Stockfish?svg=true)](https://ci.appveyor.com/project/mcostalba/stockfish)
+
 
 Kanini chess is a free UCI chess engine derived from Stockfish 9. It is
 not a complete chess program and requires some UCI-compatible GUI
